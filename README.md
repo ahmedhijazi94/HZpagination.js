@@ -20,7 +20,7 @@ CONFIGURATION: (ON HZpagination.js FILE)
      
          HZpaginationId ='pagination-container', //id of pagination container
      
-         HZpaginationArrowsClass = 'paginacaoCursor', //set the class of pagi
+         HZpaginationArrowsClass = 'paginacaoCursor', //set the class of pagination arrows
      
          HZpaginationColorDefault =  '#880e4f', //default color for the pagination numbers
      
