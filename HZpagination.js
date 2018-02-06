@@ -2,7 +2,7 @@ $(document).ready(function(){
 
   var HZperPage = 2,//number of results per page
      HZwrapper = 'paginationTable',//wrapper class
-     HZlines   = 'tableItem';//items class
+     HZlines   = 'tableItem',//items class
      HZpaginationId ='pagination-container',//id of pagination container
      HZpaginationArrowsClass = 'paginacaoCursor',//set the class of pagi
      HZpaginationColorDefault =  '#880e4f',//default color for the pagination numbers
