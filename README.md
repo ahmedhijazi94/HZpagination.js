@@ -16,7 +16,7 @@ CONFIGURATION: (ON HZpagination.js FILE)
          
          HZwrapper = 'paginationTable', //wrapper class
      
-         HZlines   = 'tableItem'; //items class
+         HZlines   = 'tableItem', //items class
      
          HZpaginationId ='pagination-container', //id of pagination container
      
