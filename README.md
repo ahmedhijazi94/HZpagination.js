@@ -8,10 +8,37 @@ JQuery>Path to Jquery<
 
 -------------------------------------------------------------------------------
 
+HTML STRUCTURE
+>>
+>>
+
+           <ul class="paginationTable">
+              <li class="tableItem"> 1 </li>
+              <li class="tableItem"> 2 </li>
+              <li class="tableItem"> 3 </li>
+              <li class="tableItem"> 4 </li>
+              <li class="tableItem"> 5 </li>
+              <li class="tableItem"> 6 </li>
+              <li class="tableItem"> 7 </li>
+              <li class="tableItem"> 8 </li>
+              <li class="tableItem"> 9 </li>
+              <li class="tableItem"> 10 </li>
+              <li class="tableItem"> 11 </li>
+              <li class="tableItem"> 12 </li>
+              <li class="tableItem"> 13 </li>
+              <li class="tableItem"> 14 </li>
+              <li class="tableItem"> 15 </li>
+          </ul>
+          
+          <div id="pagination-container">
+            <p class='paginacaoCursor' id="beforePagination"><</p>
+            <p class='paginacaoCursor' id="afterPagination">></p>
+          </div>
+          
+
 CONFIGURATION: (ON HZpagination.js FILE) 
 >>
 >>
- 
      var HZperPage = 2, //number of results per page
          
          HZwrapper = 'paginationTable', //wrapper class
